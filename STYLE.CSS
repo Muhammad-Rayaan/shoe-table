@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    text-align: center;
+    padding-inline-start: 250px;
+   width: 70%;
+   height: 70%;
+}
+#color{
+    background-color: green;
+}
+
+
+table{  
+    width: 90%;
+   
+    }
+    
